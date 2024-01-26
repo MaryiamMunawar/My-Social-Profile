@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <div className='bg-black min-h-[528px] flex items-center justify-center'>
+      <div className='bg-black min-h-screen flex items-center justify-center'>
         <div className='bg-slate-900 mb-16 mt-16 mx-4 rounded-xl text-center shadow-lg p-4  md:min-w-[280px] md:p-6 lg:min-w-[400px]'>
           <img
             src={image}
